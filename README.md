@@ -8,5 +8,4 @@
 
 ## Результаты обучения:
 
-https://user-images.githubusercontent.com/64748758/155200814-a546d34a-b655-4c2e-a330-5a863f6efabf.mp4
-
+![result](https://user-images.githubusercontent.com/64748758/155201418-9b50c1bc-c310-42d5-a61a-4d6091a63834.gif)
